@@ -1,0 +1,144 @@
+_dataset:
+  class: Lee2021Mobile_ERP
+  code: Lee2021Mobile-ERP
+  doi: 10.1038/s41597-021-01094-4
+  interval:
+  - 0
+  - 1.0
+  n_subjects: 24
+  paradigm: p300
+acquisition:
+  auxiliary_channels:
+    eog_channels: 4
+    eog_type:
+    - vertical
+    - horizontal
+    has_eog: true
+  channel_types:
+    eeg: 73
+  electrode_material: Ag/AgCl
+  ground: Fpz
+  hardware: BrainAmp (Brain Product GmbH)
+  impedance_threshold_kohm: 50
+  line_freq: 60.0
+  montage: standard_1005
+  n_channels: 73
+  reference: FCz
+  sampling_rate: 100.0
+  sensor_type: Ag/AgCl
+bci_application:
+  environment: mobile
+documentation:
+  country: KR
+  data_url: https://osf.io/r7s9b/
+  doi: 10.1038/s41597-021-01094-4
+  ethics_approval:
+  - Institutional Review Board of Korea University, KUIRB-2019-0194-01
+  funding:
+  - IITP No. 2017-0-00451
+  - IITP No. 2015-0-00185
+  - IITP No. 2019-0-00079
+  institution: Korea University
+  investigators:
+  - Young-Eun Lee
+  - Gi-Hwan Shin
+  - Minji Lee
+  - Seong-Whan Lee
+  keywords:
+  - SSVEP
+  - ERP
+  - mobile BCI
+  - ear-EEG
+  - locomotion
+  license: CC BY 4.0
+  publication_year: 2021
+  repository: OSF
+  senior_author: Seong-Whan Lee
+experiment:
+  class_labels:
+  - Target
+  - NonTarget
+  events:
+    NonTarget: 1
+    Target: 2
+  mode: offline
+  n_classes: 2
+  paradigm: p300
+  primary_modality: visual
+  stimulus_modalities:
+  - visual
+  stimulus_type: visual oddball
+  study_design: BCI during motion (standing/walking/running)
+  synchronicity: synchronous
+  trial_duration: 1.0
+file_format: BrainVision
+participants:
+  age_max: 32
+  age_mean: 24.5
+  age_min: 19
+  age_std: 2.9
+  ages:
+  - 28
+  - 24
+  - 23
+  - 24
+  - 24
+  - 22
+  - 28
+  - 19
+  - 27
+  - 22
+  - 29
+  - 21
+  - 26
+  - 27
+  - 24
+  - 24
+  - 22
+  - 23
+  - 32
+  - 26
+  - 24
+  - 21
+  - 25
+  - 23
+  gender:
+    female: 10
+    male: 14
+  health_status: healthy
+  n_subjects: 24
+  sexes:
+  - female
+  - female
+  - female
+  - female
+  - male
+  - female
+  - male
+  - male
+  - male
+  - male
+  - male
+  - male
+  - male
+  - male
+  - female
+  - female
+  - male
+  - female
+  - male
+  - male
+  - male
+  - female
+  - male
+  - female
+  species: homo sapiens
+runs_per_session: 1
+sessions_per_subject: 5
+tags:
+  modality:
+  - visual
+  pathology:
+  - healthy
+  type:
+  - perception
