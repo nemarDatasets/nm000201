@@ -1,0 +1,112 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "enriched",
+  "authors": {
+    "Young-Eun Lee": {
+      "orcid": "0000-0003-2610-7028"
+    },
+    "Gi-Hwan Shin": {
+      "orcid": "0000-0002-7348-0610"
+    },
+    "Minji Lee": {
+      "orcid": "0000-0003-4261-875X"
+    },
+    "Seong-Whan Lee": {
+      "orcid": "0000-0002-6249-4996"
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.1038/s41597-021-01094-4",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000201",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=nm000201",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0104-8",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "IITP",
+      "award_number": "2017-0-00451"
+    },
+    {
+      "funder_name": "IITP",
+      "award_number": "2015-0-00185"
+    },
+    {
+      "funder_name": "IITP",
+      "award_number": "2019-0-00079"
+    }
+  ],
+  "title": "ERP paradigm of the Mobile BCI dataset",
+  "license": "CC BY 4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "eeg"
+  ],
+  "resource_type_specific": "EEG Dataset",
+  "sizes": [
+    "5.6 GB (114 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yaml",
+    ".yml"
+  ],
+  "description": "This dataset comprises EEG recordings from 24 healthy participants performing a P300-based brain-computer interface task during various locomotion states (standing, walking, running). The study utilized 73 EEG channels plus 4 EOG auxiliary channels with visual oddball stimulation to investigate event-related potentials in mobile BCI applications. EOG was recorded on 4 auxiliary channels to monitor eye movements, providing a benchmark resource for evaluating BCI performance across different motor states.",
+  "methods_description": "EEG data were acquired at 100 Hz sampling rate using a 73-channel BrainAmp system (Brain Product GmbH) with Ag/AgCl electrodes referenced to FCz and grounded at Fpz. Four additional EOG auxiliary channels were recorded to monitor eye movements. Participants performed a visual oddball P300 task across 5 sessions. The experimental protocol involved target and non-target visual stimuli presented during different locomotion conditions (standing, walking, running).",
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "P300"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    },
+    {
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
+      "term": "mobile BCI"
+    },
+    {
+      "term": "visual oddball"
+    },
+    {
+      "term": "locomotion"
+    },
+    {
+      "term": "ERP"
+    }
+  ],
+  "source_hash": "0fcba4223974dd43ac9bbb9b7b4d7672bc65adc64c3c84e074ebbaa15ec5968e"
+}
