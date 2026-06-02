@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000201-blue)](https://doi.org/10.82901/nemar.nm000201)
+
 # ERP paradigm of the Mobile BCI dataset
 
 ERP paradigm of the Mobile BCI dataset.
