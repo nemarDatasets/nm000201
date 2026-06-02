@@ -1,6 +1,11 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
+  "title": "ERP paradigm of the Mobile BCI dataset",
+  "description": "This derivative dataset presents an event-related potential (ERP) paradigm from the Mobile BCI study, comprising 24 healthy participants performing visual oddball tasks during various locomotion states (standing, walking, running). The dataset includes 73-channel EEG recordings sampled at 100 Hz with 5 sessions per subject, annotated with HED 8.4.0 event tags for target and non-target stimuli. This resource enables investigation of P300-based brain-computer interface performance in mobile and naturalistic settings.",
+  "methods_description": "EEG data were acquired using a 73-channel BrainAmp system (Brain Product GmbH) with Ag/AgCl electrodes in a standard 1005 montage, referenced to FCz with ground at Fpz. Sampling rate was 100 Hz with 60 Hz line frequency filtering. Impedance was maintained below 50 kOhm. Four auxiliary EOG channels recorded vertical and horizontal eye movements. Participants performed visual oddball tasks during standing, walking, and running conditions.",
+  "license": "CC BY 4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Young-Eun Lee": {
       "orcid": "0000-0003-2610-7028"
@@ -15,6 +20,29 @@
       "orcid": "0000-0002-6249-4996"
     }
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "event-related potentials"
+    },
+    {
+      "term": "P300"
+    },
+    {
+      "term": "brain-computer interfaces"
+    },
+    {
+      "term": "mobile BCI"
+    },
+    {
+      "term": "visual oddball"
+    },
+    {
+      "term": "locomotion"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.1038/s41597-021-01094-4",
@@ -56,14 +84,11 @@
       "award_number": "2019-0-00079"
     }
   ],
-  "title": "ERP paradigm of the Mobile BCI dataset",
-  "license": "CC BY 4.0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "5.6 GB (114 files)"
   ],
@@ -75,38 +100,5 @@
     ".yaml",
     ".yml"
   ],
-  "description": "This dataset comprises EEG recordings from 24 healthy participants performing a P300-based brain-computer interface task during various locomotion states (standing, walking, running). The study utilized 73 EEG channels plus 4 EOG auxiliary channels with visual oddball stimulation to investigate event-related potentials in mobile BCI applications. EOG was recorded on 4 auxiliary channels to monitor eye movements, providing a benchmark resource for evaluating BCI performance across different motor states.",
-  "methods_description": "EEG data were acquired at 100 Hz sampling rate using a 73-channel BrainAmp system (Brain Product GmbH) with Ag/AgCl electrodes referenced to FCz and grounded at Fpz. Four additional EOG auxiliary channels were recorded to monitor eye movements. Participants performed a visual oddball P300 task across 5 sessions. The experimental protocol involved target and non-target visual stimuli presented during different locomotion conditions (standing, walking, running).",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "P300"
-    },
-    {
-      "term": "Brain-Computer Interfaces",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
-    },
-    {
-      "term": "Event-Related Potentials, P300",
-      "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
-    },
-    {
-      "term": "mobile BCI"
-    },
-    {
-      "term": "visual oddball"
-    },
-    {
-      "term": "locomotion"
-    },
-    {
-      "term": "ERP"
-    }
-  ],
-  "source_hash": "0fcba4223974dd43ac9bbb9b7b4d7672bc65adc64c3c84e074ebbaa15ec5968e"
+  "source_hash": "c00c3d5adeea4b4ae26297ed77c0b9050dacb2eca6bbef87a0f230553148fc0d"
 }
