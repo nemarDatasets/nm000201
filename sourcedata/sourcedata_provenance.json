@@ -1,0 +1,475 @@
+{
+ "dataset": "nm000201",
+ "moabb_class": "Lee2021Mobile_ERP",
+ "moabb_version_used": "1.5.0",
+ "retrieved": "2026-08-11",
+ "retrieved_by": "moabb.datasets.Lee2021Mobile_ERP.data_path()",
+ "upstream_cache_root": "/expanse/lustre/scratch/bpinto/temp_project/sourcedata_staging/mne_data/MNE-lee2021mobile-data",
+ "license": "CC BY 4.0",
+ "doi": "10.1038/s41597-021-01094-4",
+ "naming": "upstream_filenames_restored",
+ "n_files": 92,
+ "total_bytes": 150735,
+ "files": [
+  {
+   "file": "sub-01/ses-02/eeg/sub-01_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1618,
+   "sha256": "a9fe102cf4b53d4ad27ca77b764fc04d5c5b32ccae719a36bacf4176a3dc7ded"
+  },
+  {
+   "file": "sub-01/ses-03/eeg/sub-01_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1611,
+   "sha256": "76dd5f0f2b57d71490849de631cea6b57938578330670688f7c4b8982cebeb63"
+  },
+  {
+   "file": "sub-02/ses-01/eeg/sub-02_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1616,
+   "sha256": "d9cdaa3a48dae1624dc12550af89e5b99811039d7c647969b9a05b0ceced9b53"
+  },
+  {
+   "file": "sub-02/ses-02/eeg/sub-02_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1617,
+   "sha256": "b175c77aaac652131895075b9d7c42cd5303ce75134f248ead2ece2ec8fe69fd"
+  },
+  {
+   "file": "sub-02/ses-03/eeg/sub-02_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1595,
+   "sha256": "f559ad551f08a0a04aecad7370c90e1e9de3992ac1c318df6956cefc4d068537"
+  },
+  {
+   "file": "sub-02/ses-04/eeg/sub-02_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1598,
+   "sha256": "e92ddcde000bfad1b148a89394ac94ed56c5daf85fd1989a2cf19062d684f848"
+  },
+  {
+   "file": "sub-02/ses-05/eeg/sub-02_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1598,
+   "sha256": "74216f2478b594ea5a74740426ff3e1c0dc2fb97b99290f779145291de94a71e"
+  },
+  {
+   "file": "sub-03/ses-01/eeg/sub-03_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1615,
+   "sha256": "5802b843dc92ca6cf037f2a8e76952c6d69d83bdaf8a27b6d75324f8a15184e7"
+  },
+  {
+   "file": "sub-03/ses-02/eeg/sub-03_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1604,
+   "sha256": "a6eba47c08bb8be212cb0ef76d6ddbbdf53b44a0da8fae91d7de29a7a23ff178"
+  },
+  {
+   "file": "sub-03/ses-03/eeg/sub-03_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1612,
+   "sha256": "01621cbeaf777d3ea247e4f8714aaa1525ef5a411147138722ad431be2ac8c21"
+  },
+  {
+   "file": "sub-03/ses-04/eeg/sub-03_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1613,
+   "sha256": "b2b1331d2bdf6748181723b06e596ff7cfad2f0ee28aaeea731f25bff3753078"
+  },
+  {
+   "file": "sub-03/ses-05/eeg/sub-03_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1605,
+   "sha256": "e3217cb7fbfd9247839f690f376942579d6b41f92d3257495f818ff7dd0a271a"
+  },
+  {
+   "file": "sub-04/ses-01/eeg/sub-04_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1594,
+   "sha256": "1bf173cbd8cc9112cf1d7172378bb375c62ad7889ae892d15a8ce07ea0d29025"
+  },
+  {
+   "file": "sub-04/ses-04/eeg/sub-04_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1563,
+   "sha256": "268afe1ce978afd50369788c5ddfb16338837b454ac65c83361f880e3de8f2b3"
+  },
+  {
+   "file": "sub-05/ses-01/eeg/sub-05_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1627,
+   "sha256": "6138afb6ecd160ec42f1d5aa27db5a7420845e826840b2980de5ded9bc36f80c"
+  },
+  {
+   "file": "sub-05/ses-02/eeg/sub-05_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1622,
+   "sha256": "b471531eb6b4fd838ac359b23b159affd060b76eb1a4a1f91bcc936dfd26a7b1"
+  },
+  {
+   "file": "sub-05/ses-03/eeg/sub-05_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1621,
+   "sha256": "78506eac68d4f9097ac58f65f22a5f5e280aad46c3d28c5602213d92686cfe94"
+  },
+  {
+   "file": "sub-05/ses-04/eeg/sub-05_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1603,
+   "sha256": "381d0817095498e6685704e1024dd5d04b28768af6ddcf27fb87d918514b0977"
+  },
+  {
+   "file": "sub-05/ses-05/eeg/sub-05_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1604,
+   "sha256": "97380a6edcdaebb93002b7b7c28aaccedeff77afa4c9d6022dd3bd425363d05f"
+  },
+  {
+   "file": "sub-06/ses-01/eeg/sub-06_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1609,
+   "sha256": "0ceb3e1ca7e10eb9f2587cc6f16ea715ba06dd959a510ff45b218a31b26f8b3d"
+  },
+  {
+   "file": "sub-06/ses-02/eeg/sub-06_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1602,
+   "sha256": "d4541ae1afd6856004adeac3e93478193fcec929d33a364fa13fb1251407a048"
+  },
+  {
+   "file": "sub-06/ses-03/eeg/sub-06_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1617,
+   "sha256": "72866f3ead22365bd8a2d7c09b4727aab8a3df394e63d1122e489a58d4fba5b0"
+  },
+  {
+   "file": "sub-06/ses-04/eeg/sub-06_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1606,
+   "sha256": "093370a208e21c04799d23b196c4651d62291eb2792a4a0aef815dcbac8539ce"
+  },
+  {
+   "file": "sub-06/ses-05/eeg/sub-06_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1589,
+   "sha256": "ef6cdac5e7cc8f5d108f7e430f9b85ac8c2e11fe16125a95fb74ea4dc9bab4b8"
+  },
+  {
+   "file": "sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 2332,
+   "sha256": "4914c48241b4b648e1e1ede4571eafcb8d8e2193c94e568bbcd7d773c98216fb"
+  },
+  {
+   "file": "sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 2327,
+   "sha256": "1437cbd949060995c9bddd80c3076495546f64e818ce4ea51bcba4f64062d423"
+  },
+  {
+   "file": "sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 2322,
+   "sha256": "2a7ba140fea53ae78412b3d5f6bc3f7c96a04e022c59fe073361283b6ef8021b"
+  },
+  {
+   "file": "sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 2313,
+   "sha256": "b45bd5c24144e7440bcc5a5a7931fc020960ab5d37330bfc18a19f78da9e0aa9"
+  },
+  {
+   "file": "sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 2295,
+   "sha256": "63df2f9cec3b047eb890c374a9391eb26e1603d252a0056580e4bd2f0caf09cd"
+  },
+  {
+   "file": "sub-08/ses-01/eeg/sub-08_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1600,
+   "sha256": "e8a471eef9dcdbda2387df2d235e328f0d286cb8048f82a144c85cb1800ed8cf"
+  },
+  {
+   "file": "sub-08/ses-02/eeg/sub-08_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1582,
+   "sha256": "53920f097c17094f85f61e778302daf14fd9acda70db1df8f1f290e8c3c0709e"
+  },
+  {
+   "file": "sub-08/ses-03/eeg/sub-08_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1589,
+   "sha256": "49073ee9d52621d80c85f19d46305c1e7305a8dc5d91c81d40157defed83d418"
+  },
+  {
+   "file": "sub-08/ses-04/eeg/sub-08_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1600,
+   "sha256": "5a4e06395a86b6233df131cb4fe9f26eb31e03633c973ff519d3bc931556b7b5"
+  },
+  {
+   "file": "sub-08/ses-05/eeg/sub-08_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1586,
+   "sha256": "209095fa569b7c18e4059f35cc84b6f1fa4125df9da4777d2bbc6df2b4007b6d"
+  },
+  {
+   "file": "sub-09/ses-01/eeg/sub-09_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1599,
+   "sha256": "0e7e43dc85b5e5c28bb175569c46034e09dd8a4b8c22bfec69bdc755df39c7fa"
+  },
+  {
+   "file": "sub-09/ses-03/eeg/sub-09_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1573,
+   "sha256": "15267e1edcf115e175a5425238ef1f4a91611b4237964b44f219ad40b7cd53d5"
+  },
+  {
+   "file": "sub-09/ses-04/eeg/sub-09_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1571,
+   "sha256": "2ad7c2cedab2054e2a1547a7be273182b2bba2783c3705b03f92bfab2d1e192f"
+  },
+  {
+   "file": "sub-09/ses-05/eeg/sub-09_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1582,
+   "sha256": "dc9a9f8adeda603b3799f900a3b07dac578b032ed67a72fe5cf5547f52a39de2"
+  },
+  {
+   "file": "sub-10/ses-01/eeg/sub-10_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1616,
+   "sha256": "a41e494107678ea2ed90f6675a99b6ee8a2e7941de2a99fe36b58918c8df0dbe"
+  },
+  {
+   "file": "sub-10/ses-02/eeg/sub-10_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1614,
+   "sha256": "5267ca5ed19538a0d1405d80078aafe0cbc9e0b33450b58c3c2a41e406345704"
+  },
+  {
+   "file": "sub-10/ses-03/eeg/sub-10_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1603,
+   "sha256": "7068141ef8a4a27d1da23386fdf2e63b536362b580388f96cf541c2aa383d354"
+  },
+  {
+   "file": "sub-10/ses-04/eeg/sub-10_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1596,
+   "sha256": "ad0228d1765c0efc4d50ff87325ff8aebe3f7d418b8a272efb01c1e5001b0520"
+  },
+  {
+   "file": "sub-10/ses-05/eeg/sub-10_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1595,
+   "sha256": "4546824385e840d43e0fcf037f9d31faaff38cf6ced7b2c4686e4ca3b665423f"
+  },
+  {
+   "file": "sub-11/ses-04/eeg/sub-11_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1598,
+   "sha256": "450c11cffbcafd2b3eaa48c93f46502903d9e69cb549bc6c8dfc3b6cc1688573"
+  },
+  {
+   "file": "sub-12/ses-01/eeg/sub-12_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1602,
+   "sha256": "f45b1fd2110042a8cf12f29716ad88e63aa5af8b8957b26349a8ce8eaaca776c"
+  },
+  {
+   "file": "sub-12/ses-02/eeg/sub-12_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1583,
+   "sha256": "0e535b37a8241b2ad2bdcf7d0917c5f08e0fd5fcb881a7464a7b3ac9abe89b89"
+  },
+  {
+   "file": "sub-12/ses-04/eeg/sub-12_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1584,
+   "sha256": "bd567c847e890608fd638bd4ba8f62473b912a3387f08213db3b5d653fe00ed0"
+  },
+  {
+   "file": "sub-12/ses-05/eeg/sub-12_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1567,
+   "sha256": "e3fa8fb5546a3c28547996847977bff58bde5a96e7f9dae9aba24489ed48e119"
+  },
+  {
+   "file": "sub-13/ses-01/eeg/sub-13_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1613,
+   "sha256": "8346ab854a32dbfe072f316caa7755478682aa5bbff0fd5d112b3cb79c1bbe87"
+  },
+  {
+   "file": "sub-13/ses-02/eeg/sub-13_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1605,
+   "sha256": "a34936a2c7aef38d537a3a1182d2a2b8026d691c7056d3a47f1e573ba7cd1842"
+  },
+  {
+   "file": "sub-13/ses-03/eeg/sub-13_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1606,
+   "sha256": "5084955d7ac0f25bcafdb076f2f7337dfe5d0eed3586560da9943ea47febfdcc"
+  },
+  {
+   "file": "sub-13/ses-04/eeg/sub-13_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1608,
+   "sha256": "542e461b4d69c7b58c1602545b58a5ffe849c287cf7cc8ddd16d798f5009941c"
+  },
+  {
+   "file": "sub-13/ses-05/eeg/sub-13_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1610,
+   "sha256": "08b7bf159b88a119952d6d4dcbfa8a6e62e63bca402a6379d1d10c6f61888ce0"
+  },
+  {
+   "file": "sub-14/ses-01/eeg/sub-14_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1620,
+   "sha256": "b338e8d5e935e760e705afd478730bbf1c50fe1cfecbecf70cf46406dcf37ea4"
+  },
+  {
+   "file": "sub-14/ses-02/eeg/sub-14_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1599,
+   "sha256": "6f6af1fea79e940b8c24001fdbb2c3435fc8a3fee6ba402483573bffc82506dd"
+  },
+  {
+   "file": "sub-14/ses-03/eeg/sub-14_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1593,
+   "sha256": "1bcfb0729b82c096317be5f701d00df0d94f7d326312a5c6b8205e83c08a00a9"
+  },
+  {
+   "file": "sub-14/ses-04/eeg/sub-14_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1606,
+   "sha256": "b0d4590ed1be1e94950d96598f757e6189a391a97240037dfef4e36194cf9975"
+  },
+  {
+   "file": "sub-14/ses-05/eeg/sub-14_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1597,
+   "sha256": "0a7bdf27a3a064a6bf5823adba2a50f38f0f7e7a88710e6446c9ea0885ed5f7c"
+  },
+  {
+   "file": "sub-15/ses-01/eeg/sub-15_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1621,
+   "sha256": "d77eee35f0cdabdb024735c73b788737c682378416eaf17e3f9c9656d9d67044"
+  },
+  {
+   "file": "sub-15/ses-02/eeg/sub-15_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1619,
+   "sha256": "4801d89d2573d766be3d104edb4665188711a8d577cc56f9b988e0eec1241685"
+  },
+  {
+   "file": "sub-15/ses-03/eeg/sub-15_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1614,
+   "sha256": "63e9a295ce8cdeb83096a684dcf0e17257f6e02104f4882f2695ef218c187723"
+  },
+  {
+   "file": "sub-15/ses-04/eeg/sub-15_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1593,
+   "sha256": "2001b8e8cec5cbf504a5087863ae114f4874fbea61adf45d7603ffa844f8b6f7"
+  },
+  {
+   "file": "sub-15/ses-05/eeg/sub-15_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1590,
+   "sha256": "52c1b3d621562ae804de9bce0b58c3cd26e3b58d340466894365110cc1a14761"
+  },
+  {
+   "file": "sub-16/ses-01/eeg/sub-16_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1608,
+   "sha256": "7e3c1b91a5e0a5f9f7a17a18dcf41b567f8fa2f44f5f77be4445cfc9ed72a009"
+  },
+  {
+   "file": "sub-16/ses-02/eeg/sub-16_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1427,
+   "sha256": "76623081df14e42a07beda5491fba559d2decda2bd0113c3f03cf2d7efeef3e6"
+  },
+  {
+   "file": "sub-16/ses-03/eeg/sub-16_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1606,
+   "sha256": "ec0999b540c7cfada60cbd5f67f51762b254a6a95ca1052a8940536c12feb2ef"
+  },
+  {
+   "file": "sub-16/ses-04/eeg/sub-16_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1599,
+   "sha256": "1707b91308781c8b6f92f6911c5787edb44c6a3800c346c8c73fce11f037e397"
+  },
+  {
+   "file": "sub-16/ses-05/eeg/sub-16_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1582,
+   "sha256": "3ac2a4e38704d0dca28ab0b5fd0c198395403bcf78ab3025bb1412d3869c8b73"
+  },
+  {
+   "file": "sub-17/ses-01/eeg/sub-17_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1616,
+   "sha256": "4e3bda697f3c2e0f6f5fc482c8db07ad274e6b4a3a6bd0cd7fbfd5f785a238b3"
+  },
+  {
+   "file": "sub-17/ses-02/eeg/sub-17_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1617,
+   "sha256": "8e499348682a60a6b9306587e137f086923ca5f508d80baa3af032246cee632f"
+  },
+  {
+   "file": "sub-17/ses-03/eeg/sub-17_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1605,
+   "sha256": "429e091015b6f7535e2528558425f9176826eb9b35bc1091491b5d910be6dde0"
+  },
+  {
+   "file": "sub-17/ses-04/eeg/sub-17_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1608,
+   "sha256": "08c3a585e23e48f1b2c66a14a81fef2da341f384e42f68125e2bb730f088cf04"
+  },
+  {
+   "file": "sub-17/ses-05/eeg/sub-17_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1604,
+   "sha256": "0cd7ecb67d9abbea3ed12163331d81707252c3ad4cccfe349bc305f6293a33aa"
+  },
+  {
+   "file": "sub-18/ses-01/eeg/sub-18_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1604,
+   "sha256": "81f96f9f326fe1e8876985e326e75cd96a15a7db67dea94ad8f6cafbb76699fa"
+  },
+  {
+   "file": "sub-18/ses-02/eeg/sub-18_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1562,
+   "sha256": "8032389afa77a30fe5967fb76dc5c5cf9a31f86fe84bd90d3b874977cb1516fa"
+  },
+  {
+   "file": "sub-18/ses-03/eeg/sub-18_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1606,
+   "sha256": "758e0a2295b67e2a2d51cb928a85a72afde4325cb145ed690e44aee3c3bb66ac"
+  },
+  {
+   "file": "sub-19/ses-01/eeg/sub-19_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1624,
+   "sha256": "e2c2413324d9111ccd8e315fc8f124fc9ec8d19cc715c50efb7156053ad952de"
+  },
+  {
+   "file": "sub-19/ses-02/eeg/sub-19_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1604,
+   "sha256": "d6c9e6b5fb2932e1ab71af0fbc2e67edeb6b12849b15d7631743d039bacbffa6"
+  },
+  {
+   "file": "sub-19/ses-03/eeg/sub-19_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1607,
+   "sha256": "7e7cf98ad76a11107b8d8bd4a119d6cd3bd286bf6c69e6e113f5b809879103e3"
+  },
+  {
+   "file": "sub-20/ses-01/eeg/sub-20_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1596,
+   "sha256": "711b875f8d2bef7ef50a3a2bde61a621397f4e11d2be78178235d482fe5a9822"
+  },
+  {
+   "file": "sub-20/ses-02/eeg/sub-20_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1596,
+   "sha256": "f9d9d5e8a30818da045f38a2dfdc0fdf0bf18a6a71cd5cfa2c9ba36df0f9fda9"
+  },
+  {
+   "file": "sub-20/ses-03/eeg/sub-20_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1603,
+   "sha256": "924cf1f4ef26a6283c606dbae51c6a32d114f03f677a4e9e25363367de64dc82"
+  },
+  {
+   "file": "sub-20/ses-04/eeg/sub-20_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1589,
+   "sha256": "3a4df7439d4b694b2131085a0b24d6fdd75cbe752adb5944b438d3eaba7cd073"
+  },
+  {
+   "file": "sub-21/ses-01/eeg/sub-21_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1601,
+   "sha256": "2a47d2fb0ebae172590168cd3ee33644d6600ec23787cbebff1dfabd71fe51fa"
+  },
+  {
+   "file": "sub-21/ses-02/eeg/sub-21_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1591,
+   "sha256": "a08a2990418d47b4a134defa1c964b6c210bd638ddc0c03af8eb47c74b7e2c80"
+  },
+  {
+   "file": "sub-21/ses-04/eeg/sub-21_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1581,
+   "sha256": "f34d01eee8fc9b5e38a01f59d3d76729bb46eec037e1fd1b3cab993d0412ff3f"
+  },
+  {
+   "file": "sub-22/ses-03/eeg/sub-22_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1609,
+   "sha256": "9ebc93ae21099346e48d98802b19bed85b17bb3dfba0a609f675292022d03d10"
+  },
+  {
+   "file": "sub-23/ses-01/eeg/sub-23_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1624,
+   "sha256": "5789328eaafb0e2958687b47b1ed1fe0b0ae4a6aa47b5bf1dc9e19967085f7f7"
+  },
+  {
+   "file": "sub-23/ses-02/eeg/sub-23_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1594,
+   "sha256": "4c1c7fd8aeb9072d3141a446a9d66e90f9d74328d58ec923e71277454c889326"
+  },
+  {
+   "file": "sub-23/ses-03/eeg/sub-23_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1602,
+   "sha256": "9c34c6d45cace18179cd025f28e06bae5ad124dc53398ac6fa0defcfe0325816"
+  },
+  {
+   "file": "sub-23/ses-04/eeg/sub-23_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1595,
+   "sha256": "7eb43f8b109a559c0317f55b9eb90e0e67444b9b71799696aef55a72e665335c"
+  },
+  {
+   "file": "sub-24/ses-03/eeg/sub-24_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1593,
+   "sha256": "317fe287c7699070b77352603696f658dfa7def2a6e988c60bf87b102c6f1cb9"
+  }
+ ]
+}
