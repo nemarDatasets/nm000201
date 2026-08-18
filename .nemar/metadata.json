@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "ERP paradigm of the Mobile BCI dataset",
-  "description": "This derivative dataset presents an event-related potential (ERP) paradigm from the Mobile BCI study, comprising 24 healthy participants (mean age=24.5±2.9 years, 14 male/10 female) performing visual oddball tasks during various locomotion states (standing, walking, running). The dataset includes 73-channel EEG recordings (plus 4 auxiliary EOG channels) sampled at 100 Hz with 5 sessions per subject, annotated with HED 8.4.0 event tags for target and non-target stimuli. This resource enables investigation of P300-based brain-computer interface performance in mobile and naturalistic settings.",
-  "methods_description": "EEG data were acquired using a 73-channel BrainAmp system (Brain Product GmbH) with Ag/AgCl electrodes in a standard 1005 montage, referenced to FCz with ground at Fpz. Sampling rate was 100 Hz with 60 Hz line frequency. Impedance was maintained below 50 kOhm. Four auxiliary EOG channels recorded vertical and horizontal eye movements. Participants performed visual oddball tasks during standing, walking, and running conditions.",
+  "description": "This derivative dataset presents an event-related potential (ERP) paradigm from the Mobile BCI dataset, comprising 24 healthy participants performing visual oddball tasks during various locomotion states (standing, walking, running). The dataset includes 73-channel EEG recordings sampled at 100 Hz with 5 sessions per subject, annotated with HED 8.4.0 event tags for target and non-target stimuli. This resource enables investigation of P300-based brain-computer interface performance in mobile and dynamic environments.",
+  "methods_description": "EEG data were acquired using a 73-channel BrainAmp system (Brain Products GmbH) with Ag/AgCl electrodes in a standard 1005 montage, referenced to FCz with ground at Fpz. Sampling rate was 100 Hz with 60 Hz line frequency filtering. Impedance was maintained below 50 kOhm. Four auxiliary EOG channels recorded vertical and horizontal eye movements. Participants performed visual oddball P300 tasks during standing, walking, and running conditions.",
   "license": "CC BY 4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -103,5 +103,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "eca016439ae8f7438fc2c41dfa6dc9c94bdc0c18a4aa1fcc5cffba629c30be55"
+  "source_hash": "8449af3619b3cd8fc936761cc5e33b7c0756a84813126eb9f4e508f8dc813fd8"
 }
