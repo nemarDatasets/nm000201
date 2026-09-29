@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "ERP paradigm of the Mobile BCI dataset",
-  "description": "This derivative dataset presents an event-related potential (ERP) paradigm from the Mobile BCI dataset, comprising 24 healthy participants performing visual oddball tasks during various locomotion states (standing, walking, running). The dataset includes 73-channel EEG recordings sampled at 100 Hz with 5 sessions per subject, annotated with HED 8.4.0 event tags for target and non-target stimuli. This resource enables investigation of P300-based brain-computer interface performance in mobile and dynamic environments.",
-  "methods_description": "EEG data were acquired using a 73-channel BrainAmp system (Brain Products GmbH) with Ag/AgCl electrodes in a standard 1005 montage, referenced to FCz with ground at Fpz. Sampling rate was 100 Hz with 60 Hz line frequency filtering. Impedance was maintained below 50 kOhm. Four auxiliary EOG channels recorded vertical and horizontal eye movements. Participants performed visual oddball P300 tasks during standing, walking, and running conditions.",
+  "description": "This dataset contains the event-related potential (ERP) paradigm portion of the Mobile BCI dataset. Scalp EEG from 24 healthy participants was recorded during a visual oddball (P300) task while they stood, walked, and ran. It supports research on brain-computer interfaces that work during locomotion, and it is distributed as a MOABB-derived BIDS dataset.",
+  "methods_description": "Participants performed a visual oddball task with Target and NonTarget stimuli across 5 sessions each. EEG was recorded with a BrainAmp amplifier using 73 Ag/AgCl channels, referenced to FCz with ground at Fpz. Sampling rate was 100 Hz and 4 EOG auxiliary channels were included. Impedance was kept below 50 kOhm.",
   "license": "CC BY 4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -25,22 +25,24 @@
       "term": "EEG"
     },
     {
-      "term": "event-related potentials"
+      "term": "ERP"
     },
     {
       "term": "P300"
     },
     {
-      "term": "brain-computer interfaces"
-    },
-    {
       "term": "mobile BCI"
     },
     {
-      "term": "visual oddball"
+      "term": "ear-EEG"
     },
     {
       "term": "locomotion"
+    },
+    {
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     }
   ],
   "related_identifiers": [
@@ -57,12 +59,12 @@
     {
       "identifier": "10.21105/joss.01896",
       "identifier_type": "DOI",
-      "relation_type": "IsDescribedBy"
+      "relation_type": "References"
     },
     {
       "identifier": "10.1038/s41597-019-0104-8",
       "identifier_type": "DOI",
-      "relation_type": "IsDescribedBy"
+      "relation_type": "References"
     },
     {
       "identifier": "https://nemar.org/dataset/nm000201",
@@ -90,7 +92,7 @@
     "eeg"
   ],
   "sizes": [
-    "8.7 GB (297 files)"
+    "8.08 GB (297 files)"
   ],
   "formats": [
     ".bdf",
