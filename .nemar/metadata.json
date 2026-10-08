@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "ERP paradigm of the Mobile BCI dataset",
-  "description": "This dataset contains the event-related potential (ERP) paradigm portion of the Mobile BCI dataset. Scalp EEG from 24 healthy participants was recorded during a visual oddball (P300) task while they stood, walked, and ran. It supports research on brain-computer interfaces that work during locomotion, and it is distributed as a MOABB-derived BIDS dataset.",
-  "methods_description": "Participants performed a visual oddball task with Target and NonTarget stimuli across 5 sessions each. EEG was recorded with a BrainAmp amplifier using 73 Ag/AgCl channels, referenced to FCz with ground at Fpz. Sampling rate was 100 Hz and 4 EOG auxiliary channels were included. Impedance was kept below 50 kOhm.",
+  "description": "A mobile brain-computer interface dataset containing scalp- and ear-EEG recordings from 24 healthy participants performing a visual oddball (P300/ERP) paradigm while standing, walking, and running. EEG was recorded from 73 channels with additional EOG across five sessions per subject. This derivative version is formatted in BIDS with HED event annotations for benchmarking BCI decoding during locomotion.",
+  "methods_description": "EEG was recorded with a BrainAmp amplifier (Brain Products) using 73 Ag/AgCl electrodes referenced to FCz and grounded at Fpz, plus 4 EOG channels. Participants performed a visual oddball task with Target and NonTarget stimuli during standing, walking, and running. Data were sampled at 100 Hz, with impedance kept below 50 kOhm.",
   "license": "CC BY 4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -22,27 +22,31 @@
   },
   "keywords": [
     {
-      "term": "EEG"
-    },
-    {
-      "term": "ERP"
-    },
-    {
-      "term": "P300"
-    },
-    {
-      "term": "mobile BCI"
-    },
-    {
-      "term": "ear-EEG"
-    },
-    {
-      "term": "locomotion"
+      "term": "Electroencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004569"
     },
     {
       "term": "Brain-Computer Interfaces",
       "subject_scheme": "MeSH",
       "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
+    },
+    {
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
+      "term": "ear-EEG"
+    },
+    {
+      "term": "mobile BCI"
+    },
+    {
+      "term": "locomotion"
+    },
+    {
+      "term": "SSVEP"
     }
   ],
   "related_identifiers": [
@@ -105,5 +109,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "8449af3619b3cd8fc936761cc5e33b7c0756a84813126eb9f4e508f8dc813fd8"
+  "source_hash": "94ff0b59a6e732a6d16b632d13e6bb79e190c321a989c95e4bb7ff5c07b2e242"
 }
