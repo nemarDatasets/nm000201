@@ -8,8 +8,8 @@
  "license": "CC BY 4.0",
  "doi": "10.1038/s41597-021-01094-4",
  "naming": "upstream_filenames_restored",
- "n_files": 274,
- "total_bytes": 3101874976,
+ "n_files": 339,
+ "total_bytes": 3985394916,
  "files": [
   {
    "file": "sub-01/ses-02/eeg/sub-01_ses-02_task-ERP_eeg.eeg",
@@ -445,93 +445,123 @@
   },
   {
    "file": "sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.eeg",
-   "bytes": 10120574,
-   "sha256": "99361ac12a7a2eb9d341a223b3fab47739e9ad7ce6709fc522e98f970f399074",
-   "subject": "7"
+   "bytes": 34659500,
+   "sha256": "5f0e50a71a19ff8e316a7cf21c637460bb44a92b975e0a23ce3d07e4fb049ac2",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe66720c4cba0115bc6f3e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.vhdr",
-   "bytes": 2332,
-   "sha256": "4914c48241b4b648e1e1ede4571eafcb8d8e2193c94e568bbcd7d773c98216fb",
-   "subject": "7"
+   "bytes": 1601,
+   "sha256": "cf46368a9247c734b2873377f2f7e39f94a92ce65a065a956a65b33bf2b927c8",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe666fc7a97601119dc67b/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.vmrk",
-   "bytes": 9319,
-   "sha256": "704e2463ff1c157a67fcf547c38ff043fe4a6ef25adcb51390ddd1c7c756ebaa",
-   "subject": "7"
+   "bytes": 9569,
+   "sha256": "643ecdf2532a44de848813a78a6057027ba290bbf0759cd1ee4c231118947edb",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe666dc7a97601119dc675/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.eeg",
-   "bytes": 10133714,
-   "sha256": "5a7e139a3ece2a596d5d9436da93c7bd4f43d3609122c845bb5548120ef422f7",
-   "subject": "7"
+   "bytes": 34704400,
+   "sha256": "924e7df74a461c1ad84e0627ee4cbad35dd8a3e8cc02ff54799e1e913b6897aa",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe66a00c4cba0115bc6ff2/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.vhdr",
-   "bytes": 2327,
-   "sha256": "1437cbd949060995c9bddd80c3076495546f64e818ce4ea51bcba4f64062d423",
-   "subject": "7"
+   "bytes": 1581,
+   "sha256": "0b9ad967a5debdc27dc60a2648d6ede07862e29493871973e37bdebe415a7003",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe669e317620011637f0b9/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.vmrk",
-   "bytes": 9321,
-   "sha256": "175e7aa5fe569ba5ac0bd24d99dcd3d9b0a1fd0f20e400d6957b68a61624186e",
-   "subject": "7"
+   "bytes": 9569,
+   "sha256": "e7bddf35ba0ae6cd20196944fc11ad4c063f3621db9560d49122b87d3900ad17",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe66a6c7a97601119dc715/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.eeg",
-   "bytes": 10184668,
-   "sha256": "ee62f17dbf6b22b7a05089012ef13a31283069004aa62e79eacfb217e0cb5a68",
-   "subject": "7"
+   "bytes": 34878700,
+   "sha256": "2821c8caced2784a95165a415360c85a33ba1603e0db4c6ae27fcca4b8abc264",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe66d30c4cba0115bc70b2/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.vhdr",
-   "bytes": 2322,
-   "sha256": "2a7ba140fea53ae78412b3d5f6bc3f7c96a04e022c59fe073361283b6ef8021b",
-   "subject": "7"
+   "bytes": 1584,
+   "sha256": "c199885181b1fedc9edc4fdc1efc1c2bedbfc64450b96aab51fa946a9f10410d",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe66c9317620010b3836e1/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.vmrk",
-   "bytes": 9320,
-   "sha256": "deaa8f800ada3b55b0732b98df37bf3fcf6e6620e47611f9c97aa3d8b40ae234",
-   "subject": "7"
+   "bytes": 9569,
+   "sha256": "ee43b96e03c6c9623b9c79649ac2dd8598048dd2bdcacc7f29d0ebadec20c41b",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe66c9317620011537e7ad/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.eeg",
-   "bytes": 9816894,
-   "sha256": "d462d8ed554be9dc8f3a6eca48cb6a087d33f61c9c504ed97ad490d2d834d421",
-   "subject": "7"
+   "bytes": 33619500,
+   "sha256": "92d3b90760d7d9c73f5dbcab8ab553ed5a8adf57e43bef97f902c67f47398613",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe6652317620011138047d/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.vhdr",
-   "bytes": 2313,
-   "sha256": "b45bd5c24144e7440bcc5a5a7931fc020960ab5d37330bfc18a19f78da9e0aa9",
-   "subject": "7"
+   "bytes": 1578,
+   "sha256": "ec9091f9c4aa3fe6c51da966f0d21e1a2f2041a4afa81435f4399332f7d161e8",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe6648c7a976010e9dbdd5/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.vmrk",
-   "bytes": 9320,
-   "sha256": "f56909df8f927856c82331c8fcdba5f4db32c4f04ff6e4029d1f0444fa47bff3",
-   "subject": "7"
+   "bytes": 9569,
+   "sha256": "47097f055d436508cdbf2df58d1de70ae65a4128a167a3e09263949588e8c3f8",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe66480c4cba0115bc6eb7/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.eeg",
-   "bytes": 9974428,
-   "sha256": "6c388feb54785075242965de5c4ac7f402470240c928aca400e76fd87508ba23",
-   "subject": "7"
+   "bytes": 34159000,
+   "sha256": "4ae47279dbb55541e09c4aa0d879cb1ef49d6d4de188e0adc95c33a727564570",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe661f317620011037ef85/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.vhdr",
-   "bytes": 2295,
-   "sha256": "63df2f9cec3b047eb890c374a9391eb26e1603d252a0056580e4bd2f0caf09cd",
-   "subject": "7"
+   "bytes": 1581,
+   "sha256": "a8bf205e938cbaff269b3002ce1d0ba139d678890a0c59dedf539af4b749906d",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe661d0c4cba0111bc727b/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.vmrk",
-   "bytes": 9320,
-   "sha256": "0b2d44b9cfd624c499ee40a8efe9f28caf7bc936e3fac5fe48053f7e104f56a3",
-   "subject": "7"
+   "bytes": 9569,
+   "sha256": "bf262130cac4ed135ccbef1607172a45f0c9447c95c9bcd5eda4d6a89f4e6a28",
+   "subject": "7",
+   "url": "https://osf.io/download/60fe6624317620011037ef8b/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
   },
   {
    "file": "sub-08/ses-01/eeg/sub-08_ses-01_task-ERP_eeg.eeg",
@@ -1654,8 +1684,645 @@
    "bytes": 9569,
    "sha256": "d4dc9029b15878d8acc8ec39c8a8144877da2838d343121655acd506dd90ccf0",
    "subject": "24"
+  },
+  {
+   "file": "sub-01/ses-01/eeg/sub-01_ses-01_task-ERP_eeg.eeg",
+   "bytes": 42349800,
+   "sha256": "7e6d07b509073e9496bb5309438823847d60a24fe50058986acb070ae982e1a0",
+   "subject": "1",
+   "url": "https://osf.io/download/d35wt/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-01/eeg/sub-01_ses-01_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-01/eeg/sub-01_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1616,
+   "sha256": "ec59474846dd82eb85a973ff6a140e538d463e4131e43a305ee11a49acff1018",
+   "subject": "1",
+   "url": "https://osf.io/download/pvbx4/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-01/eeg/sub-01_ses-01_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-01/eeg/sub-01_ses-01_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "500b9ccecad62a2103a34fea819a888823369735375d5ea7250188fa0575fd54",
+   "subject": "1",
+   "url": "https://osf.io/download/ph3fk/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-01/eeg/sub-01_ses-01_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-04/eeg/sub-01_ses-04_task-ERP_eeg.eeg",
+   "bytes": 35441700,
+   "sha256": "a36824cce41ca9621bebed4c0c0f3a9c9d95214ad222a651345b3ad0c5a348d5",
+   "subject": "1",
+   "url": "https://osf.io/download/60fe6616c7a97601129dcffc/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-04/eeg/sub-01_ses-04_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-04/eeg/sub-01_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1603,
+   "sha256": "f6b285c905171edac301a6e18b8177339fa6234cc9e4914a9e57f072e2bb284f",
+   "subject": "1",
+   "url": "https://osf.io/download/60fe660d317620011637ee61/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-04/eeg/sub-01_ses-04_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-04/eeg/sub-01_ses-04_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "6a287845f890b6a61e346ae61c2a5b11c391d3896cbc5edb56be379f6beb85fe",
+   "subject": "1",
+   "url": "https://osf.io/download/60fe660d317620011637ee5d/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-04/eeg/sub-01_ses-04_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-05/eeg/sub-01_ses-05_task-ERP_eeg.eeg",
+   "bytes": 45616100,
+   "sha256": "c6514d94f893bb3487266d129ecbeff4bdd2c17f0b7725961e2a693f1228ab1a",
+   "subject": "1",
+   "url": "https://osf.io/download/60fe65720c4cba0115bc6a5c/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-05/eeg/sub-01_ses-05_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-05/eeg/sub-01_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1573,
+   "sha256": "d667b3eb85f6d70feb4be165ee874e2caa5e28945398a0cb40b8d5550e27e329",
+   "subject": "1",
+   "url": "https://osf.io/download/60fe656f317620011037eee4/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-05/eeg/sub-01_ses-05_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-01/ses-05/eeg/sub-01_ses-05_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "f03b678b83044e2018f7ef6aa41aa4167226ea44227f01798f696719dcaee76e",
+   "subject": "1",
+   "url": "https://osf.io/download/60fe65780c4cba0115bc6a7b/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-01/ses-05/eeg/sub-01_ses-05_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-02/eeg/sub-04_ses-02_task-ERP_eeg.eeg",
+   "bytes": 34405800,
+   "sha256": "08674b6b10be1c44d528cab5cdea23d04cd576dbaa174050fc9803c193aac9a6",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe6651317620011637ef8e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-02/eeg/sub-04_ses-02_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-02/eeg/sub-04_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1594,
+   "sha256": "2cf8c4a3e2afb7853c565e3edea05151e74ca3fbc91a93a6543e8d358b4865ac",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe6651317620011537e68b/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-02/eeg/sub-04_ses-02_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-02/eeg/sub-04_ses-02_task-ERP_eeg.vmrk",
+   "bytes": 9570,
+   "sha256": "5905cd9571cf918f2040c2867d2941fa899321441274130319924ea801a492ac",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe66570c4cba0111bc72c0/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-02/eeg/sub-04_ses-02_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-03/eeg/sub-04_ses-03_task-ERP_eeg.eeg",
+   "bytes": 34051600,
+   "sha256": "850809e0d9848dbf1000ec53b85cbc2cd0a5bb89429ff7013a49791455246f5d",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe663b317620011637ef41/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-03/eeg/sub-04_ses-03_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-03/eeg/sub-04_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1594,
+   "sha256": "dee0f9c5bffab3edb0e448eb30f8b17b1056e4d04248eb0d1847a74616c3b441",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe6636317620011637ef24/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-03/eeg/sub-04_ses-03_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-03/eeg/sub-04_ses-03_task-ERP_eeg.vmrk",
+   "bytes": 9570,
+   "sha256": "3d6176249bad9c9dba9c798b3c9cc42982438461ebd0c21c9b0e86a955480eaa",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe6640317620011637ef59/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-03/eeg/sub-04_ses-03_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-05/eeg/sub-04_ses-05_task-ERP_eeg.eeg",
+   "bytes": 42609800,
+   "sha256": "da24095c8925435d03ff94b6e93019aa6608bf069f0103d4424b57fb803c14ac",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe66c4c7a976010d9db92b/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-05/eeg/sub-04_ses-05_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-05/eeg/sub-04_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1573,
+   "sha256": "7404abfb841fa29aacc6932acfd1ad56fc13387c1a40644c9f3b9d6b7714dd0c",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe66ba317620011637f13f/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-05/eeg/sub-04_ses-05_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-04/ses-05/eeg/sub-04_ses-05_task-ERP_eeg.vmrk",
+   "bytes": 9570,
+   "sha256": "96a0fa070dbffdb19b091c8474dc12f7e6d0336d9027672f175bc586a0d64ade",
+   "subject": "4",
+   "url": "https://osf.io/download/60fe66b80c4cba0111bc732e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-04/ses-05/eeg/sub-04_ses-05_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-09/ses-02/eeg/sub-09_ses-02_task-ERP_eeg.eeg",
+   "bytes": 34076300,
+   "sha256": "24a76e78b60c4a3dba1d3733e8455b43d469cc6ac52431a39e3e2661aeba8368",
+   "subject": "9",
+   "url": "https://osf.io/download/60fe50d40c4cba0107bc9dbf/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-09/ses-02/eeg/sub-09_ses-02_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-09/ses-02/eeg/sub-09_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1586,
+   "sha256": "39b7b582970dbb5210b88f9c06a201656d8e4b1205ce323f30e2af937bf34d3f",
+   "subject": "9",
+   "url": "https://osf.io/download/60fe50d90c4cba0102bc9f94/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-09/ses-02/eeg/sub-09_ses-02_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-09/ses-02/eeg/sub-09_ses-02_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "0f6ccbdefaee0814ed75a6ff41e12d57bb2950a3f75b97d5ec2858af96dd6ddf",
+   "subject": "9",
+   "url": "https://osf.io/download/60fe50d2317620010b38218e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-09/ses-02/eeg/sub-09_ses-02_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-01/eeg/sub-11_ses-01_task-ERP_eeg.eeg",
+   "bytes": 36085100,
+   "sha256": "e3cfd14ef14236cebe1b716bfbbf96550bd8e0285f90cc131b627449c48ad394",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe660e0c4cba0115bc6dbe/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-01/eeg/sub-11_ses-01_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-01/eeg/sub-11_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1576,
+   "sha256": "e92168006dd5ae14996476743637a9275ee20fd3f04dd05e15db966b24562a0b",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe66080c4cba0111bc7248/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-01/eeg/sub-11_ses-01_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-01/eeg/sub-11_ses-01_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "d43c4b698e8b239ceb6ca364c04657c737fe4deebcd93b363368e981e3cef89e",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe6608317620011637ee48/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-01/eeg/sub-11_ses-01_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-02/eeg/sub-11_ses-02_task-ERP_eeg.eeg",
+   "bytes": 22963700,
+   "sha256": "21c6cfcaee59892a467c1cb5c07eac9cca52d22ca7ba1ebcd6f6f57a7fee25b4",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe659fc7a97601119dc3f5/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-02/eeg/sub-11_ses-02_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-02/eeg/sub-11_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1599,
+   "sha256": "ba737bab42d490d3def7aa25d439d886ea108eab63a7b778d06adfdb23a94a6e",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe6597317620011637ebfc/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-02/eeg/sub-11_ses-02_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-02/eeg/sub-11_ses-02_task-ERP_eeg.vmrk",
+   "bytes": 6369,
+   "sha256": "d7ceb81f4cb1f16869822c33a5c7756f53b427c3fa08747efa886caed31a6c67",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe65970c4cba0115bc6b0e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-02/eeg/sub-11_ses-02_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-03/eeg/sub-11_ses-03_task-ERP_eeg.eeg",
+   "bytes": 22777100,
+   "sha256": "228baa160b0ea899f7a8cfc1897a9154620a0ce256bcbba18517f95422dbb2c6",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe65b6317620010b383695/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-03/eeg/sub-11_ses-03_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-03/eeg/sub-11_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1596,
+   "sha256": "f4f7cc244e87e0725f887846d2e66143d4d1ff75dabbebc3561deeb64f2b0c9d",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe65adc7a976010d9db84a/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-03/eeg/sub-11_ses-03_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-03/eeg/sub-11_ses-03_task-ERP_eeg.vmrk",
+   "bytes": 6369,
+   "sha256": "eb37b6d6099f2db2c625594f2c1b9e78661f7db598350d759b4f7ea0d9a946f4",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe65ad317620011637ec75/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-03/eeg/sub-11_ses-03_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-04/eeg/sub-11_ses-04_task-ERP_eeg.eeg",
+   "bytes": 23404200,
+   "sha256": "6221b9255db4c74e9eee9451b3df3ec50625166e8a4ec1e2091369c3f18a5e51",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe656cc7a976010e9dbc5e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-04/eeg/sub-11_ses-04_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-05/eeg/sub-11_ses-05_task-ERP_eeg.eeg",
+   "bytes": 23922000,
+   "sha256": "45a449505dcd128b6c3e3b106a41fc3bce90965d7b2b86e898aa35deed30ec1e",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe65ea0c4cba0115bc6cde/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-05/eeg/sub-11_ses-05_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-05/eeg/sub-11_ses-05_task-ERP_eeg.vhdr",
+   "bytes": 1593,
+   "sha256": "a6bfe2b7ab83385a80ab8f022642553b4c93577fb4788b8d8b2826ee1cb82844",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe65f00c4cba0115bc6cfd/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-05/eeg/sub-11_ses-05_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-11/ses-05/eeg/sub-11_ses-05_task-ERP_eeg.vmrk",
+   "bytes": 6369,
+   "sha256": "0990848c9eff45a39593bab27926932cc1955b79349f91997be07528bc4e6968",
+   "subject": "11",
+   "url": "https://osf.io/download/60fe65ea31762001113803d2/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-11/ses-05/eeg/sub-11_ses-05_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-12/ses-03/eeg/sub-12_ses-03_task-ERP_eeg.eeg",
+   "bytes": 35068300,
+   "sha256": "15b7da2a9c051c29954eb9217a9affe454b1e13d949f00b546889c0d87bfdad0",
+   "subject": "12",
+   "url": "https://osf.io/download/60ff5f90c7a97601829dd2aa/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-12/ses-03/eeg/sub-12_ses-03_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-12/ses-03/eeg/sub-12_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1595,
+   "sha256": "3d19f18c7bcdbfeafdce1640bcecf2fad85f0b772b7e669ac9d4ac216d4ad9e8",
+   "subject": "12",
+   "url": "https://osf.io/download/60ff5f87c7a97601829dd296/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-12/ses-03/eeg/sub-12_ses-03_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-12/ses-03/eeg/sub-12_ses-03_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "dbe21c0e655842a5db6793dfe7f49ba34ef2348c618abbf3a466dca5e756ea55",
+   "subject": "12",
+   "url": "https://osf.io/download/60ff5f87317620017f380d4e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-12/ses-03/eeg/sub-12_ses-03_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-18/ses-04/eeg/sub-18_ses-04_task-ERP_eeg.eeg",
+   "bytes": 34578300,
+   "sha256": "4506308623429bba1f56f74f57309b13d48c549a662c8f5121b500f43df7fc49",
+   "subject": "18",
+   "url": "https://osf.io/download/60fe4de50c4cba0102bc9b97/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-18/ses-04/eeg/sub-18_ses-04_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-18/ses-04/eeg/sub-18_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1600,
+   "sha256": "c79015c10706f9ac6e931779c74f26d4541256549f8d661eb1825b1e045884e5",
+   "subject": "18",
+   "url": "https://osf.io/download/60fe4de30c4cba0107bc9138/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-18/ses-04/eeg/sub-18_ses-04_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-18/ses-04/eeg/sub-18_ses-04_task-ERP_eeg.vmrk",
+   "bytes": 9571,
+   "sha256": "0e457fb66ec2c3f46c36cd9d952668beef1c6c0694a16f857d8048ac917dd0f0",
+   "subject": "18",
+   "url": "https://osf.io/download/60fe4dedc7a97601049ddca0/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-18/ses-04/eeg/sub-18_ses-04_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-19/ses-01/eeg/sub-19_ses-01_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "6022ae0b427d751d248c21e545729031dc30a418c284eb31af4272416f483098",
+   "subject": "19",
+   "url": "https://osf.io/download/60fe4cae0c4cba0106bc764e/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-19/ses-01/eeg/sub-19_ses-01_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-19/ses-04/eeg/sub-19_ses-04_task-ERP_eeg.eeg",
+   "bytes": 35349600,
+   "sha256": "31f9e3043e16445e9abf8f7a84b3ab51a28575dbdf73a7f8074f85f35fb27deb",
+   "subject": "19",
+   "url": "https://osf.io/download/60fe4cd50c4cba0102bc9a6f/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-19/ses-04/eeg/sub-19_ses-04_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-19/ses-04/eeg/sub-19_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1593,
+   "sha256": "c89839659a4ad56597f89e23b9a337ac55683c03ca7063c724f4bcfca38c1711",
+   "subject": "19",
+   "url": "https://osf.io/download/60fe4cdbc7a97600fe9dc772/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-19/ses-04/eeg/sub-19_ses-04_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-19/ses-04/eeg/sub-19_ses-04_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "d8aa01ad8d08e80215384221f563feed9cdb63be443e7d0aca9698eca64f3453",
+   "subject": "19",
+   "url": "https://osf.io/download/60fe4cd20c4cba0107bc8d9f/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-19/ses-04/eeg/sub-19_ses-04_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-21/ses-03/eeg/sub-21_ses-03_task-ERP_eeg.eeg",
+   "bytes": 36763100,
+   "sha256": "2dea7a0b10655ce0ccbeaf99eb98cb1a678f90f85aeb50c8080ffe293ffe3bf1",
+   "subject": "21",
+   "url": "https://osf.io/download/60fe48b1317620010b380278/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-21/ses-03/eeg/sub-21_ses-03_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-21/ses-03/eeg/sub-21_ses-03_task-ERP_eeg.vhdr",
+   "bytes": 1604,
+   "sha256": "7aafe796034ac5f24e1374c586ea448a71d2f818bfe2a5cb9f69770a46e96cf1",
+   "subject": "21",
+   "url": "https://osf.io/download/60fe48b80c4cba0106bc6de0/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-21/ses-03/eeg/sub-21_ses-03_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-21/ses-03/eeg/sub-21_ses-03_task-ERP_eeg.vmrk",
+   "bytes": 9568,
+   "sha256": "9c96f1f299ea59e772d84ab8c01ac43ea4cceeec7668a04d4a41da116d4c6fda",
+   "subject": "21",
+   "url": "https://osf.io/download/60fe48ae317620010a37f0df/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-21/ses-03/eeg/sub-21_ses-03_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-01/eeg/sub-22_ses-01_task-ERP_eeg.eeg",
+   "bytes": 39213200,
+   "sha256": "af569f6472da15cc816474f2815a1bf27e6f085285fdbcc4fceca56696287a3a",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4b1e317620010a37f5c1/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-01/eeg/sub-22_ses-01_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-01/eeg/sub-22_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1599,
+   "sha256": "73c9adf4c06db1b99332fb3e668b4828e92c16191f374505de0062804e15600b",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4b1cc7a97601049dd2ec/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-01/eeg/sub-22_ses-01_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-01/eeg/sub-22_ses-01_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "98d3b4871bcf4aa22eeeda59967ab8fbbbe8603be0810be7c728c41cfb453fab",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4b1cc7a97601049dd2e8/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-01/eeg/sub-22_ses-01_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-02/eeg/sub-22_ses-02_task-ERP_eeg.eeg",
+   "bytes": 35131700,
+   "sha256": "95b4806d36d800aff0eccb20290768820e1ae5a36d3003b80e5e1671e970a79d",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4ada0c4cba0102bc97b0/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-02/eeg/sub-22_ses-02_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-02/eeg/sub-22_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1616,
+   "sha256": "8f905d6370575971d8a1f823d9ff40a2d39fb00c90d12a097ec70f7688804c9a",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4ad1c7a97600ff9dd231/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-02/eeg/sub-22_ses-02_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-02/eeg/sub-22_ses-02_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "85386a0c10119edb78adaf8a3b3dd9cf3b62bf438c8d57bfce834fe02f093a46",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4ad1317620010a37f532/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-02/eeg/sub-22_ses-02_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-04/eeg/sub-22_ses-04_task-ERP_eeg.eeg",
+   "bytes": 44556900,
+   "sha256": "3392b6613d8bec07277b4b0aa012657f12ff4f490e3180c82ed2ecda21b8830d",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4af20c4cba0106bc7226/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-04/eeg/sub-22_ses-04_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-04/eeg/sub-22_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1605,
+   "sha256": "1daf774ecdb656f5b9df4f164fd9884c82f5bf7f86b5fe853362e9eae740d3fc",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4ae70c4cba0107bc860a/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-04/eeg/sub-22_ses-04_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-22/ses-04/eeg/sub-22_ses-04_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "3eedd041aadb75bb0f20c09336fe5128883c2793738ab7565d9b33ed2dabb57f",
+   "subject": "22",
+   "url": "https://osf.io/download/60fe4ae80c4cba00febc8286/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-22/ses-04/eeg/sub-22_ses-04_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-01/eeg/sub-24_ses-01_task-ERP_eeg.eeg",
+   "bytes": 34784600,
+   "sha256": "fe0f6c2361767ab2863ba7da80a466eeb022c82e650027ddb25d837d4762531d",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe491c317620010b380422/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-01/eeg/sub-24_ses-01_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-01/eeg/sub-24_ses-01_task-ERP_eeg.vhdr",
+   "bytes": 1610,
+   "sha256": "e432dbb78c6deb41f6c4f941c0662a5eeb539f6486fd8611cf58d034e344f49e",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe491a31762001053801e6/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-01/eeg/sub-24_ses-01_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-01/eeg/sub-24_ses-01_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "4b01c9f454bfacd68eb5ec82513c3caf5424d0f555846abd47933851ade6b3f2",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe4919c7a97601039dc470/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-01/eeg/sub-24_ses-01_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-02/eeg/sub-24_ses-02_task-ERP_eeg.eeg",
+   "bytes": 34098300,
+   "sha256": "10f289bf3d526497cc557267459c49159533fc800038020b07e6ba3bcaaa92ce",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe48e0317620010b380343/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-02/eeg/sub-24_ses-02_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-02/eeg/sub-24_ses-02_task-ERP_eeg.vhdr",
+   "bytes": 1599,
+   "sha256": "d0f7f87745a5c1153babbadf0b6f80999de066868565a48f14bf8250382c4249",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe48e0c7a97601039dc3e3/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-02/eeg/sub-24_ses-02_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-02/eeg/sub-24_ses-02_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "e85606ac5443eb423ceea98e4aabe1508e4ab8bfabd51cd4c2d425d3e0960bfa",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe48e00c4cba0107bc7f4d/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-02/eeg/sub-24_ses-02_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-04/eeg/sub-24_ses-04_task-ERP_eeg.eeg",
+   "bytes": 34249900,
+   "sha256": "023a5afa6106413c3e6e6222d783e96b2fee0183d71eec9a31f70e59709d334b",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe48f80c4cba0102bc95e7/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-04/eeg/sub-24_ses-04_task-ERP_eeg.eeg; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-04/eeg/sub-24_ses-04_task-ERP_eeg.vhdr",
+   "bytes": 1591,
+   "sha256": "99d28d07319e257d403e130539a1601d3f171970b86083e6566a7fb62a350245",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe48f5317620010b38038d/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-04/eeg/sub-24_ses-04_task-ERP_eeg.vhdr; size, MD5 and SHA-256 = OSF API"
+  },
+  {
+   "file": "sub-24/ses-04/eeg/sub-24_ses-04_task-ERP_eeg.vmrk",
+   "bytes": 9569,
+   "sha256": "05398eec3512390f8c39b5bf8f389c9be9239dff427f9ae795b4f5428de927f4",
+   "subject": "24",
+   "url": "https://osf.io/download/60fe48f60c4cba0107bc7f9b/",
+   "how": "OSF project r7s9b (doi:10.17605/OSF.IO/R7S9B), /sourcedata/sub-24/ses-04/eeg/sub-24_ses-04_task-ERP_eeg.vmrk; size, MD5 and SHA-256 = OSF API"
   }
  ],
  "n_subjects_recorded": 24,
- "n_shared_files": 0
+ "n_shared_files": 0,
+ "revisions": [
+  {
+   "date": "2026-10-19",
+   "version": "1.0.4",
+   "added_files": 65,
+   "added_bytes": 761731537,
+   "note": "OSF r7s9b /sourcedata/ round: added 65 files (761,731,537 B); replaced 15 sub-07 files (73 ch / 100 Hz copy -> 50 ch / 500 Hz originals); size, MD5 and SHA-256 = OSF API; headers 50 ch, SamplingInterval 2000 us. Still absent: sub-18 ses-05, sub-19 ses-05, sub-20 ses-05, sub-21 ses-05, sub-22 ses-05, sub-23 ses-05, sub-24 ses-05.",
+   "replaced_files": 15,
+   "replaced": [
+    {
+     "file": "sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.vhdr",
+     "old_bytes": 2332,
+     "old_sha256": "4914c48241b4b648e1e1ede4571eafcb8d8e2193c94e568bbcd7d773c98216fb",
+     "new_bytes": 1601,
+     "new_sha256": "cf46368a9247c734b2873377f2f7e39f94a92ce65a065a956a65b33bf2b927c8"
+    },
+    {
+     "file": "sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.eeg",
+     "old_bytes": 10120574,
+     "old_sha256": "99361ac12a7a2eb9d341a223b3fab47739e9ad7ce6709fc522e98f970f399074",
+     "new_bytes": 34659500,
+     "new_sha256": "5f0e50a71a19ff8e316a7cf21c637460bb44a92b975e0a23ce3d07e4fb049ac2"
+    },
+    {
+     "file": "sub-07/ses-01/eeg/sub-07_ses-01_task-ERP_eeg.vmrk",
+     "old_bytes": 9319,
+     "old_sha256": "704e2463ff1c157a67fcf547c38ff043fe4a6ef25adcb51390ddd1c7c756ebaa",
+     "new_bytes": 9569,
+     "new_sha256": "643ecdf2532a44de848813a78a6057027ba290bbf0759cd1ee4c231118947edb"
+    },
+    {
+     "file": "sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.vhdr",
+     "old_bytes": 2327,
+     "old_sha256": "1437cbd949060995c9bddd80c3076495546f64e818ce4ea51bcba4f64062d423",
+     "new_bytes": 1581,
+     "new_sha256": "0b9ad967a5debdc27dc60a2648d6ede07862e29493871973e37bdebe415a7003"
+    },
+    {
+     "file": "sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.eeg",
+     "old_bytes": 10133714,
+     "old_sha256": "5a7e139a3ece2a596d5d9436da93c7bd4f43d3609122c845bb5548120ef422f7",
+     "new_bytes": 34704400,
+     "new_sha256": "924e7df74a461c1ad84e0627ee4cbad35dd8a3e8cc02ff54799e1e913b6897aa"
+    },
+    {
+     "file": "sub-07/ses-02/eeg/sub-07_ses-02_task-ERP_eeg.vmrk",
+     "old_bytes": 9321,
+     "old_sha256": "175e7aa5fe569ba5ac0bd24d99dcd3d9b0a1fd0f20e400d6957b68a61624186e",
+     "new_bytes": 9569,
+     "new_sha256": "e7bddf35ba0ae6cd20196944fc11ad4c063f3621db9560d49122b87d3900ad17"
+    },
+    {
+     "file": "sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.vhdr",
+     "old_bytes": 2322,
+     "old_sha256": "2a7ba140fea53ae78412b3d5f6bc3f7c96a04e022c59fe073361283b6ef8021b",
+     "new_bytes": 1584,
+     "new_sha256": "c199885181b1fedc9edc4fdc1efc1c2bedbfc64450b96aab51fa946a9f10410d"
+    },
+    {
+     "file": "sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.eeg",
+     "old_bytes": 10184668,
+     "old_sha256": "ee62f17dbf6b22b7a05089012ef13a31283069004aa62e79eacfb217e0cb5a68",
+     "new_bytes": 34878700,
+     "new_sha256": "2821c8caced2784a95165a415360c85a33ba1603e0db4c6ae27fcca4b8abc264"
+    },
+    {
+     "file": "sub-07/ses-03/eeg/sub-07_ses-03_task-ERP_eeg.vmrk",
+     "old_bytes": 9320,
+     "old_sha256": "deaa8f800ada3b55b0732b98df37bf3fcf6e6620e47611f9c97aa3d8b40ae234",
+     "new_bytes": 9569,
+     "new_sha256": "ee43b96e03c6c9623b9c79649ac2dd8598048dd2bdcacc7f29d0ebadec20c41b"
+    },
+    {
+     "file": "sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.vhdr",
+     "old_bytes": 2313,
+     "old_sha256": "b45bd5c24144e7440bcc5a5a7931fc020960ab5d37330bfc18a19f78da9e0aa9",
+     "new_bytes": 1578,
+     "new_sha256": "ec9091f9c4aa3fe6c51da966f0d21e1a2f2041a4afa81435f4399332f7d161e8"
+    },
+    {
+     "file": "sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.eeg",
+     "old_bytes": 9816894,
+     "old_sha256": "d462d8ed554be9dc8f3a6eca48cb6a087d33f61c9c504ed97ad490d2d834d421",
+     "new_bytes": 33619500,
+     "new_sha256": "92d3b90760d7d9c73f5dbcab8ab553ed5a8adf57e43bef97f902c67f47398613"
+    },
+    {
+     "file": "sub-07/ses-04/eeg/sub-07_ses-04_task-ERP_eeg.vmrk",
+     "old_bytes": 9320,
+     "old_sha256": "f56909df8f927856c82331c8fcdba5f4db32c4f04ff6e4029d1f0444fa47bff3",
+     "new_bytes": 9569,
+     "new_sha256": "47097f055d436508cdbf2df58d1de70ae65a4128a167a3e09263949588e8c3f8"
+    },
+    {
+     "file": "sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.vhdr",
+     "old_bytes": 2295,
+     "old_sha256": "63df2f9cec3b047eb890c374a9391eb26e1603d252a0056580e4bd2f0caf09cd",
+     "new_bytes": 1581,
+     "new_sha256": "a8bf205e938cbaff269b3002ce1d0ba139d678890a0c59dedf539af4b749906d"
+    },
+    {
+     "file": "sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.eeg",
+     "old_bytes": 9974428,
+     "old_sha256": "6c388feb54785075242965de5c4ac7f402470240c928aca400e76fd87508ba23",
+     "new_bytes": 34159000,
+     "new_sha256": "4ae47279dbb55541e09c4aa0d879cb1ef49d6d4de188e0adc95c33a727564570"
+    },
+    {
+     "file": "sub-07/ses-05/eeg/sub-07_ses-05_task-ERP_eeg.vmrk",
+     "old_bytes": 9320,
+     "old_sha256": "0b2d44b9cfd624c499ee40a8efe9f28caf7bc936e3fac5fe48053f7e104f56a3",
+     "new_bytes": 9569,
+     "new_sha256": "bf262130cac4ed135ccbef1607172a45f0c9447c95c9bcd5eda4d6a89f4e6a28"
+    }
+   ]
+  }
+ ]
 }
