@@ -1,0 +1,5 @@
+1.0.4 2026-10-19
+  - sourcedata: added 65 files (761,731,537 bytes) from OSF r7s9b /sourcedata/ (50 ch, 500 Hz): 21 absent sessions (sub-01 ses-01, sub-01 ses-04, sub-01 ses-05, sub-04 ses-02, sub-04 ses-03, sub-04 ses-05, sub-09 ses-02, sub-11 ses-01, sub-11 ses-02, sub-11 ses-03, sub-11 ses-05, sub-12 ses-03, sub-18 ses-04, sub-19 ses-04, sub-21 ses-03, sub-22 ses-01, sub-22 ses-02, sub-22 ses-04, sub-24 ses-01, sub-24 ses-02, sub-24 ses-04); sub-11 ses-04 (.eeg), sub-19 ses-01 (.vmrk).
+  - sourcedata: REPLACED sub-07 ses-01, ses-02, ses-03, ses-04, ses-05 (15 files): the deposited files were the 73 ch / 100 Hz copy; now the 50 ch / 500 Hz originals of the same name.
+    The BIDS tree of sub-7 (73 ch, 100 Hz) is unchanged.
+  - Still absent (not on OSF /sourcedata/): sub-18 ses-05, sub-19 ses-05, sub-20 ses-05, sub-21 ses-05, sub-22 ses-05, sub-23 ses-05, sub-24 ses-05.
